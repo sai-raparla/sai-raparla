@@ -1,6 +1,6 @@
 ## Hi, I'm Sai 👋
 
-I'm a Computer Science major with a minor in Mathematics who enjoys building software.
+I'm a Computer Science major with a minor in Mathematics at the University of Connecticut 🐺
 
 ### About Me
 - 🎓 Studying **Computer Science** with a **minor in Mathematics**
