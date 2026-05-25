@@ -5,8 +5,7 @@ I'm a Computer Science major with a Minor in Mathematics at the University of Co
 ### About Me
 - 💼 Interned twice at **Optum**
 - 🔭 Current projects:
-  - Working with **Pratt & Whitney** on my senior design project, focused on building a secure remote vehicle communication system
-  - **Combinatorial Optimization for Haplotype Assembly**
+  - Working on a sports GO analytics scraper for the premier league and NBA.
 - 📚 Interested in software engineering, machine learning, cloud computing, and building impactful tools
 
 ### Contact
