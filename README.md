@@ -1,6 +1,6 @@
 ## Hi, I'm Sai 👋
 
-I'm a Computer Science major with a Minor in Mathematics at the University of Connecticut 🐺
+### I'm a Computer Science major with a Minor in Mathematics at the University of Connecticut 🐺
 ---
 ### About Me
 - 💼 Interned three times at **Optum**
