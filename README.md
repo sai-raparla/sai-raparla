@@ -6,7 +6,8 @@
 - 💼 Interned three times at **Optum**
 - Currently interning at Savant Systems
 - 🔭 Current projects:
-  - Working on a GO cli to-do list
+  - GO cli to-do list
+  - Personal portfolio website
 - 📚 Interested in software engineering, machine learning, cloud computing, and building impactful tools
 ---
 ### Contact
