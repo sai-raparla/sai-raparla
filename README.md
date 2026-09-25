@@ -1,8 +1,6 @@
 ## Hi, I'm Sai 👋
 
-### I'm a Computer Science major with a Minor in Mathematics at the University of Connecticut 
-
-🎓 Computer Science @ University of Connecticut 🐺 | M.S. Computer Science @ Georgia Tech :honeybee:
+### 🎓 Computer Science @ University of Connecticut | M.S. Computer Science @ Georgia Tech
 ---
 ### About Me
 - 💼 Interned three times at **Optum**
