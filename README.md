@@ -7,6 +7,7 @@
 - Currently interning at Savant Systems
 - 🔭 Current projects:
   - Personal portfolio website
+  - GO URL Shortner
 - 📚 Interested in software engineering, machine learning, cloud computing, and building impactful tools
 ---
 ### Contact
